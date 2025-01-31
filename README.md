@@ -1,16 +1,39 @@
-# login
+# 🔐 Authentication Page (Login, Sign Up, Forgot Password)  
 
-A new Flutter project.
+Welcome to the **Authentication Page**, a simple and secure Flutter-based login system that includes sign-up and password recovery features.  
 
-## Getting Started
+## 🚀 Features  
 
-This project is a starting point for a Flutter application.
+✅ **User Login** – Secure authentication using email and password  
+✅ **Sign-Up** – New users can create an account quickly  
+✅ **Forgot Password** – Reset password via email verification  
+✅ **Input Validation** – Ensures correct email and password format  
+✅ **User-Friendly UI** – Clean and responsive design  
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** – Cross-platform mobile app development  
+- **Dart** – Programming language  
+- **Provider/Bloc** – State management   
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Installation  
+
+1. Clone the repository:  
+   ```sh
+   git clone https://github.com/anchirinaahhezekiah/login.git
+   cd login
+   ```  
+2. Install dependencies:  
+   ```sh
+   flutter pub get
+   ```  
+3. Run the app:  
+   ```sh
+   flutter run
+   ```  
+
+
+## 🤝 Contributing  
+
+Contributions are welcome! Feel free to fork the repository and submit a pull request.  
+
